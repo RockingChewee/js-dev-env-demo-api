@@ -1,2 +1,2 @@
 # js-dev-env-demo-api
-API for JS Dev Env Demo in Pluralsight course
+API for JavaScript development environment Pluralsight course by Cory House
